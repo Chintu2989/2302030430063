@@ -1,0 +1,1661 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+podcasts-eo9 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.podcasts-eo9 .navbar-aB1 {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 2.1rem 8rem 2.2rem 8.3rem;
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw {
+  margin: 0.2rem 56.923rem 0.075rem 0rem;
+  height: calc(100% - 0.2753rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .item--Z2w {
+  margin-right: 0.4492rem;
+  width: 0.9116rem;
+  height: 2.6247rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .f-6Hm {
+  margin: 0.005rem 0.244rem 0rem 0rem;
+  width: 1.272rem;
+  height: 1.9813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .i-PXm {
+  margin: 0rem 0.366rem 0.036rem 0rem;
+  width: 0.4025rem;
+  height: 2.0223rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .n-j5q {
+  margin: 0.505rem 0.243rem 0rem 0rem;
+  width: 1.3551rem;
+  height: 1.4877rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .s-3cK {
+  margin: 0.532rem 0.094rem 0rem 0rem;
+  width: 1.2449rem;
+  height: 1.5131rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .w-BTd {
+  margin: 0.536rem 0.078rem 0rem 0rem;
+  width: 2.2026rem;
+  height: 1.4497rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .e-hgs {
+  margin: 0.539rem 0.174rem 0rem 0rem;
+  width: 1.4521rem;
+  height: 1.5131rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .e-daX {
+  margin: 0.539rem 0.135rem 0rem 0rem;
+  width: 1.453rem;
+  height: 1.5131rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .logo-gUw .t-BM9 {
+  margin-top: 0.2509rem;
+  width: 0.9001rem;
+  height: 1.7896rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .links-list-sjm {
+  margin: 0.1rem 3.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .links-list-sjm .podcasts-K75 {
+  margin-right: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.podcasts-eo9 .navbar-aB1 .links-list-sjm .host-ddZ {
+  margin-right: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.podcasts-eo9 .navbar-aB1 .links-list-sjm .about-ySX {
+  margin-right: 4.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.podcasts-eo9 .navbar-aB1 .links-list-sjm .blog-if1 {
+  margin-right: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.podcasts-eo9 .navbar-aB1 .links-list-sjm .contact-GRd {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.podcasts-eo9 .navbar-aB1 .social-vEB {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding-left: 0.6445rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .social-vEB .facebook-r7q {
+  margin: 0.033rem 2.205rem 0rem 0rem;
+  width: 1.2501rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .social-vEB .linkedin-nXH {
+  margin: 0rem 1.604rem 0.1rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .navbar-aB1 .social-vEB .instagram-Hiw {
+  margin-top: 0.1rem;
+  width: 2.4995rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .header-d27 {
+  margin: 0rem 0rem 12.8rem 0.2rem;
+  box-sizing: border-box;
+  padding: 4.8rem 8rem;
+  width: 144rem;
+  height: 56.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-CpX.png');
+  flex-shrink: 0;
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 {
+  box-sizing: border-box;
+  padding-right: 11.3rem;
+  width: 76.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(80, 58, 231, 0.8999999762);
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .green-border-tCw {
+  margin-right: 4.8rem;
+  width: 1.6rem;
+  height: 46.8rem;
+  background-color: #1ad993;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw {
+  margin: 9.6rem 0;
+  width: 59.1rem;
+  height: calc(100% - 19.2rem);
+  flex-shrink: 0;
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw .featured-YYP {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw .a-ux-case-study-on-creating-a-studious-environment-ERD {
+  margin-bottom: 1.5rem;
+  max-width: 48.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw .apparently-we-had-reached-a-great-height-in-the-atmosphere-for-the-sky-was-a-dead-black-and-the-stars-had-ceased-to-twinkle-by-the-same-illusion-which-lifts-the-horizon-w4j {
+  margin: 0rem 0rem 3.2rem 0.2rem;
+  max-width: 58.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw .listen-now-PhR {
+  margin-right: 46.5rem;
+  width: calc(100% - 46.5rem);
+  display: flex;
+  align-items: center;
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw .listen-now-PhR .icon-YaK {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .header-d27 .all-podcast-hero-card-Lx7 .content-2pw .listen-now-PhR .listen-now-W1M {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh {
+  margin: 0rem 8rem 12.8rem 8.2rem;
+  width: calc(100% - 16.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .top-row-hrX {
+  margin-bottom: 6.4rem;
+  width: 100%;
+  height: 10.8rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .top-row-hrX .content-4BH {
+  width: 37.1rem;
+  height: 10.2rem;
+}
+.podcasts-eo9 .recent-episodes-bHh .top-row-hrX .content-4BH .recent-episodes-1cK {
+  margin-bottom: 1.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.podcasts-eo9 .recent-episodes-bHh .top-row-hrX .content-4BH .apparently-we-had-reached-a-great-height-in-the-atmosphere-for-the-sky-was-a-dead-black-9yR {
+  margin-left: 0.1rem;
+  max-width: 37rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB {
+  width: 100%;
+  height: 46rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq {
+  width: 41.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .image-wuH {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 36rem;
+  width: 100%;
+  height: 25.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/https-wwwpexelscom-photo-photo-of-people-sitting-beside-table-3182755-bg-MA7.png');
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .image-wuH .episode-icon-eYo {
+  margin-bottom: 18.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .content-Yu5 {
+  width: 37.301rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .content-Yu5 .heading-6vb {
+  margin-left: 0.101rem;
+  max-width: 36.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .content-Yu5 .lorem-ipsum-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-23Z {
+  margin-left: 0.101rem;
+  max-width: 37.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .content-Yu5 .listen-now-WzK {
+  margin-right: 24.701rem;
+  width: calc(100% - 24.701rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .content-Yu5 .listen-now-WzK .icon-Fh1 {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-aoq .content-Yu5 .listen-now-WzK .listen-now-BqZ {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT {
+  width: 41.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .image-ez3 {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 36rem;
+  width: 100%;
+  height: 25.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/https-wwwpexelscom-photo-man-holding-black-smartphone-1220757-bg-dQB.png');
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .image-ez3 .episode-icon-CEs {
+  margin-bottom: 18.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .content-76w {
+  width: 37.2rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .content-76w .heading-qod {
+  max-width: 33.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .content-76w .lorem-ipsum-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-mhH {
+  max-width: 37.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .content-76w .listen-now-Ge3 {
+  margin-right: 24.6rem;
+  width: calc(100% - 24.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .content-76w .listen-now-Ge3 .icon-27R {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-VLT .content-76w .listen-now-Ge3 .listen-now-xFy {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 {
+  width: 41.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .image-4K1 {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 36rem;
+  width: 100%;
+  height: 25.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/https-wwwpexelscom-photo-photo-of-women-having-conversation-3194524-bg-mZq.png');
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .image-4K1 .episode-icon-bZq {
+  margin-bottom: 18.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .content-XiP {
+  width: 38.5rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .content-XiP .heading-fJo {
+  max-width: 38.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .content-XiP .lorem-ipsum-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-xoh {
+  max-width: 37.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .content-XiP .listen-now-VHq {
+  margin-right: 25.9rem;
+  width: calc(100% - 25.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .content-XiP .listen-now-VHq .icon-Qvb {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .recent-episodes-bHh .list-evB .item-6d5 .content-XiP .listen-now-VHq .listen-now-xx7 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ {
+  margin: 0rem 8rem 12.8rem 8.2rem;
+  width: calc(100% - 16.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u {
+  margin-bottom: 6.4rem;
+  width: 61.4rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u .all-podcasts-BZy {
+  margin-bottom: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u .categories-8VD {
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u .categories-8VD .tab-link-sxb {
+  width: 16.2rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #503ae7;
+  border-radius: 2.85rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u .categories-8VD .tab-link-ZKd {
+  width: 12.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #aeafb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #aeafb8;
+  box-sizing: border-box;
+  border-radius: 2.85rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u .categories-8VD .tab-link-2U7 {
+  width: 14.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #aeafb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #aeafb8;
+  box-sizing: border-box;
+  border-radius: 2.85rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .top-row-r1u .categories-8VD .tab-link-vpP {
+  width: 13.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #aeafb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #aeafb8;
+  box-sizing: border-box;
+  border-radius: 2.85rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB {
+  width: 100%;
+  height: 46rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF {
+  width: 41.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .image-o11 {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 36rem;
+  width: 100%;
+  height: 25.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/https-wwwpexelscom-photo-photo-of-people-sitting-beside-table-3182755-bg-wZh.png');
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .image-o11 .episode-icon-Kzw {
+  margin-bottom: 18.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .content-Fdh {
+  width: 37.301rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .content-Fdh .heading-BXM {
+  margin-left: 0.101rem;
+  max-width: 36.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .content-Fdh .lorem-ipsum-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-K7m {
+  margin-left: 0.101rem;
+  max-width: 37.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .content-Fdh .listen-now-mVZ {
+  margin-right: 24.701rem;
+  width: calc(100% - 24.701rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .content-Fdh .listen-now-mVZ .icon-VwM {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-SgF .content-Fdh .listen-now-mVZ .listen-now-Ffd {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV {
+  width: 41.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .image-AXh {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 36rem;
+  width: 100%;
+  height: 25.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/https-wwwpexelscom-photo-man-holding-black-smartphone-1220757-bg-dGT.png');
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .image-AXh .episode-icon-hnX {
+  margin-bottom: 18.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .content-bd1 {
+  width: 37.2rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .content-bd1 .heading-jz7 {
+  max-width: 33.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .content-bd1 .lorem-ipsum-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-6Js {
+  max-width: 37.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .content-bd1 .listen-now-kuD {
+  margin-right: 24.6rem;
+  width: calc(100% - 24.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .content-bd1 .listen-now-kuD .icon-WdV {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-bjV .content-bd1 .listen-now-kuD .listen-now-FLB {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu {
+  width: 41.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .image-Yq5 {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 36rem;
+  width: 100%;
+  height: 25.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/https-wwwpexelscom-photo-photo-of-women-having-conversation-3194524-bg-C9V.png');
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .image-Yq5 .episode-icon-gwH {
+  margin-bottom: 18.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .content-RP5 {
+  width: 38.5rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .content-RP5 .heading-yfV {
+  max-width: 38.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .content-RP5 .lorem-ipsum-at-vero-eos-et-accusam-et-justo-duo-dolores-et-ea-rebum-SJB {
+  max-width: 37.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .content-RP5 .listen-now-AV5 {
+  margin-right: 25.9rem;
+  width: calc(100% - 25.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .content-RP5 .listen-now-AV5 .icon-W39 {
+  margin-right: 0.8rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .all-episodes-uMZ .list-XpB .item-nqu .content-RP5 .listen-now-AV5 .listen-now-rco {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F {
+  margin: 0rem 0.2rem 12.8rem 0rem;
+  box-sizing: border-box;
+  padding: 12.8rem 0rem 0rem 20.8rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: flex-end;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/cta-background.png');
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F .content-7Hq {
+  margin: 0rem 22.7rem 12.8rem 0rem;
+  row-gap: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F .content-7Hq .become-the-hero-of-your-own-story-pT9 {
+  max-width: 43.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1000000636;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F .content-7Hq .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mus-cras-lacus-tellus-morbi-viverra-suspendisse-ornare-sit-volutpat-volutpat-ut-netus-malesuada-enim-penatibus-non-aliquet-jq1 {
+  max-width: 43.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F .content-7Hq .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mus-cras-lacus-tellus-morbi-viverra-suspendisse-ornare-sit-volutpat-volutpat-ut-netus-malesuada-enim-penatibus-non-aliquet-jq1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mus-cras-lacus-tellus-morbi-viverra-suspendisse-ornare-sit-volutpat-volutpat-ut-netus-malesuada-enim-penatibus-non-aliquet-jq1-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.podcasts-eo9 .cta-o2F .content-7Hq .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mus-cras-lacus-tellus-morbi-viverra-suspendisse-ornare-sit-volutpat-volutpat-ut-netus-malesuada-enim-penatibus-non-aliquet-jq1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-mus-cras-lacus-tellus-morbi-viverra-suspendisse-ornare-sit-volutpat-volutpat-ut-netus-malesuada-enim-penatibus-non-aliquet-jq1-sub-1 {
+}
+.podcasts-eo9 .cta-o2F .content-7Hq .button-secondary-PwV {
+  width: 14.8rem;
+  height: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #f3f2ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #f3f2ff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F .pulse-S95 {
+  margin-top: 31.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 3.2rem 1.6rem 3.2rem;
+  background-color: #503ae7;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .cta-o2F .pulse-S95 .icon-v4F {
+  width: 50.7rem;
+  height: 11.4001rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.podcasts-eo9 .auto-group-jdru-RFu {
+  margin-left: 0.2rem;
+  width: 144rem;
+  height: 82.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP {
+  width: 144rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 0;
+  top: 18.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab {
+  box-sizing: border-box;
+  padding: 19.2rem 8.027rem 9.6rem 8rem;
+  width: 100%;
+  height: 57.4rem;
+  background-color: #14142b;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT {
+  box-sizing: border-box;
+  padding-right: 24.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .brand-vM5 {
+  margin: 0.3rem 23.8rem 0rem 0rem;
+  width: 20rem;
+  height: 4.0506rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao {
+  margin-right: 24.2rem;
+  width: 7rem;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao .pages-y4T {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao .links-6es {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao .links-6es .home-EWB {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao .links-6es .podcast-APq {
+  margin-bottom: 1.5948rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao .links-6es .host-uMR {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .pages-3Ao .links-6es .blog-2gw {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .reach-us-nAK {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .reach-us-nAK .reach-us-LxX {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .reach-us-nAK .links-6Ru {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .reach-us-nAK .links-6Ru .contact-GLP {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .auto-group-xrus-oGT .reach-us-nAK .links-6Ru .about-cf9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP {
+  width: 19.5728rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .subscribe-hgb {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV {
+  margin: 0rem 1.353rem 3.2rem 0rem;
+  width: calc(100% - 1.3528rem);
+  height: 3.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .icon-5h9 {
+  margin-right: 1.0255rem;
+  width: 3.2346rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif {
+  margin: 0.736rem 0rem 0.676rem 0rem;
+  height: calc(100% - 1.4127rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-9h1 {
+  margin: 0rem 0.133rem 0.348rem 0rem;
+  width: 1.3013rem;
+  height: 1.4385rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-fQT {
+  margin: 0.38rem 0.169rem 0rem 0rem;
+  width: 1.0007rem;
+  height: 1.4077rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-CvB {
+  margin: 0.38rem 0.176rem 0rem 0rem;
+  width: 1.0022rem;
+  height: 1.4077rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-9aX {
+  margin: 0rem 0.178rem 0.348rem 0rem;
+  width: 0.2184rem;
+  height: 1.4385rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-fYs {
+  margin: 0.044rem 0.613rem 0rem 0rem;
+  width: 0.9722rem;
+  height: 1.0777rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-C31 {
+  margin: 0rem 0.079rem 0.348rem 0rem;
+  width: 1.0295rem;
+  height: 1.4391rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-WpP {
+  margin: 0.042rem 0.154rem 0rem 0rem;
+  width: 1.0097rem;
+  height: 1.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-G2s {
+  margin: 0rem 0.178rem 0.336rem 0rem;
+  width: 1.0007rem;
+  height: 1.4507rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-mEX {
+  margin: 0.042rem 0.135rem 0rem 0rem;
+  width: 0.9617rem;
+  height: 1.0788rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-ta3 {
+  margin: 0.042rem 0.163rem 0rem 0rem;
+  width: 0.9034rem;
+  height: 1.0873rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-Rps {
+  margin: 0.045rem 0.102rem 0rem 0rem;
+  width: 0.884rem;
+  height: 1.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-yLb {
+  margin: 0rem 0.144rem 0.199rem 0rem;
+  width: 0.5714rem;
+  height: 1.3074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .apple-podcast-aVV .text-dif .vector-5Pd {
+  margin-top: 0.0446rem;
+  width: 0.8809rem;
+  height: 1.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .google-podcast-dAF {
+  margin: 0rem 0.067rem 3.2rem 0.037rem;
+  width: calc(100% - 0.1033rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .google-podcast-dAF .lines-xTR {
+  margin-right: 1.0512rem;
+  width: 3.2587rem;
+  height: 3.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .google-podcast-dAF .vector-WUw {
+  margin: 0.237rem 0.536rem 0rem 0rem;
+  width: 6.7504rem;
+  height: 2.16rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .google-podcast-dAF .vector-D8T {
+  margin-bottom: 0.0611rem;
+  width: 7.873rem;
+  height: 1.4991rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .soundcloud-N1M {
+  margin: 0rem 2.178rem 3.2rem 0.035rem;
+  width: calc(100% - 2.2129rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .soundcloud-N1M .cloud-6i3 {
+  margin-right: 0.7875rem;
+  width: 3.2954rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .soundcloud-N1M .text-T2o {
+  margin-top: 0.1821rem;
+  width: 13.277rem;
+  height: 1.4045rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy .vector-ufV {
+  margin-right: 0.9659rem;
+  width: 3.2266rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy .vector-s6X {
+  margin: 0rem 0.112rem 0.021rem 0rem;
+  width: 1.4045rem;
+  height: 1.8367rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy .vector-1Td {
+  margin: 0.783rem 0.126rem 0rem 0rem;
+  width: 1.4125rem;
+  height: 1.7804rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy .vector-JxX {
+  margin: 0.42rem 0.021rem 0rem 0rem;
+  width: 1.4294rem;
+  height: 1.4176rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy .vector-Fsm {
+  margin-top: 0.0771rem;
+  width: 0.8659rem;
+  height: 1.7414rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .top-content-Jab .footer-columns-SRu .subscribe-ZaP .links-qH1 .spotify-nKy .auto-group-htgh-Pyy {
+  width: 3.2021rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .footer-AUP .bottom-copyright-UkX {
+  width: 100%;
+  height: 6.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #503ae7;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh {
+  box-sizing: border-box;
+  padding: 7.2rem 7.3rem 7.2rem 7.2rem;
+  width: 128rem;
+  height: 28.5rem;
+  position: absolute;
+  left: 8rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #503ae7;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .our-sponsors-3x3 {
+  margin: 0rem 0rem 6.3rem 0.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT {
+  opacity: 0.8;
+  box-sizing: border-box;
+  padding: 0.075rem 0.041rem 0.026rem 0.059rem;
+  width: 100%;
+  height: 3.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-6vK {
+  margin: 0.057rem 8.471rem 0rem 0rem;
+  width: 17.1213rem;
+  height: 3.3779rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR {
+  margin: 0rem 8.554rem 0.064rem 0rem;
+  height: 3.7341rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-usm {
+  margin-right: 0.0001rem;
+  width: 1.7004rem;
+  height: 3.7341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-4kf {
+  margin: 0rem 0.954rem 0rem 0rem;
+  width: 1.3134rem;
+  height: 2.6471rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-oy9 {
+  margin: 0rem 0.213rem 0.134rem 0rem;
+  width: 0.3807rem;
+  height: 1.8479rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-Yvj {
+  margin: 0.448rem 0.131rem 0rem 0rem;
+  width: 1.3325rem;
+  height: 1.3427rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-UpP {
+  margin: 0.963rem 0.214rem 0rem 0rem;
+  width: 1.368rem;
+  height: 1.839rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-pdM {
+  margin: 0.448rem 0.174rem 0rem 0rem;
+  width: 1.3325rem;
+  height: 1.3428rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-mYb {
+  margin: 0rem 0.229rem 0.119rem 0rem;
+  width: 0.4518rem;
+  height: 1.8325rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-gvT {
+  margin: 0.921rem 0.094rem 0rem 0rem;
+  width: 1.3675rem;
+  height: 1.8107rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-QrT {
+  margin: 0.451rem 0.17rem 0rem 0rem;
+  width: 1.0634rem;
+  height: 1.3391rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-xNB {
+  margin: 0.487rem 0.261rem 0rem 0rem;
+  width: 1.2094rem;
+  height: 1.3051rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-tFq {
+  margin: 0.412rem 0.041rem 0rem 0rem;
+  width: 1.8959rem;
+  height: 1.3018rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-pbR .vector-a8f {
+  margin-bottom: 1.3964rem;
+  width: 0.5584rem;
+  height: 0.5627rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-vTR {
+  margin: 0.208rem 8.401rem 0.155rem 0rem;
+  height: calc(100% - 0.3627rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-vTR .vector-4Zd {
+  margin-right: 0.9225rem;
+  width: 3.4426rem;
+  height: 3.4355rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-vTR .vector-1zf {
+  margin-top: 0.37rem;
+  width: 10.7073rem;
+  height: 2.0774rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ {
+  margin: 0.385rem 8.392rem 0.451rem 0rem;
+  height: calc(100% - 0.8354rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-qyh {
+  margin-right: 1.0271rem;
+  width: 3.4571rem;
+  height: 2.9629rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-CZM {
+  margin: 0.432rem 0.115rem 0rem 0rem;
+  width: 0.4654rem;
+  height: 1.4248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-wmq {
+  margin: 0.882rem 0.154rem 0rem 0rem;
+  width: 1.0461rem;
+  height: 0.9764rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-rto {
+  margin: 1.324rem 0.189rem 0rem 0rem;
+  width: 1.0496rem;
+  height: 1.4136rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-Cxf {
+  margin: 0.882rem 0.167rem 0rem 0rem;
+  width: 1.0426rem;
+  height: 0.9753rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-jhh {
+  margin: 0.435rem 0.074rem 0rem 0rem;
+  width: 0.4916rem;
+  height: 1.4219rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-3iP {
+  margin: 1.289rem 0.125rem 0rem 0rem;
+  width: 1.2056rem;
+  height: 1.3816rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-B3u {
+  margin: 0.877rem 0.18rem 0rem 0rem;
+  width: 0.9053rem;
+  height: 0.9798rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-7iF {
+  margin: 0.914rem 0.08rem 0rem 0rem;
+  width: 1.1545rem;
+  height: 0.945rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-kBZ .vector-4Nb {
+  margin-top: 0.8822rem;
+  width: 1.9259rem;
+  height: 0.9749rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-CDu {
+  margin-top: 0.0563rem;
+  height: 3.742rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-CDu .vector-wxB {
+  margin-right: 0.8057rem;
+  width: 3.7612rem;
+  height: 3.742rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.podcasts-eo9 .auto-group-jdru-RFu .sponsors-PMh .logos-BYT .logo-CDu .vector-75y {
+  margin-top: 0.555rem;
+  width: 11.5133rem;
+  height: 2.2345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

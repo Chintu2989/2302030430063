@@ -1,0 +1,1110 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.blog-raj {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.blog-raj .navbar-jPd {
+  box-sizing: border-box;
+  padding: 2.1rem 8rem 2.2rem 8.3rem;
+  width: 100%;
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 {
+  margin: 0.2rem 56.923rem 0.075rem 0rem;
+  height: calc(100% - 0.2753rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .item--XaP {
+  margin-right: 0.4492rem;
+  width: 0.9116rem;
+  height: 2.6247rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .f-4KR {
+  margin: 0.005rem 0.244rem 0rem 0rem;
+  width: 1.272rem;
+  height: 1.9813rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .i-PsV {
+  margin: 0rem 0.366rem 0.036rem 0rem;
+  width: 0.4025rem;
+  height: 2.0223rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .n-7Yb {
+  margin: 0.505rem 0.243rem 0rem 0rem;
+  width: 1.3551rem;
+  height: 1.4877rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .s-Fuh {
+  margin: 0.532rem 0.094rem 0rem 0rem;
+  width: 1.2449rem;
+  height: 1.5131rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .w-zMV {
+  margin: 0.536rem 0.078rem 0rem 0rem;
+  width: 2.2026rem;
+  height: 1.4497rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .e-7S7 {
+  margin: 0.539rem 0.174rem 0rem 0rem;
+  width: 1.4521rem;
+  height: 1.5131rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .e-qd1 {
+  margin: 0.539rem 0.135rem 0rem 0rem;
+  width: 1.453rem;
+  height: 1.5131rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .logo-F75 .t-xSj {
+  margin-top: 0.2509rem;
+  width: 0.9001rem;
+  height: 1.7896rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .links-list-HV1 {
+  margin: 0.1rem 3.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .links-list-HV1 .podcasts-K75 {
+  margin-right: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.blog-raj .navbar-jPd .links-list-HV1 .host-ddZ {
+  margin-right: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.blog-raj .navbar-jPd .links-list-HV1 .about-ySX {
+  margin-right: 4.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.blog-raj .navbar-jPd .links-list-HV1 .blog-if1 {
+  margin-right: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.blog-raj .navbar-jPd .links-list-HV1 .contact-GRd {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.blog-raj .navbar-jPd .social-2Dd {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding-left: 0.6445rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .social-2Dd .facebook-mS7 {
+  margin: 0.033rem 2.205rem 0rem 0rem;
+  width: 1.2501rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .social-2Dd .linkedin-4RD {
+  margin: 0rem 1.604rem 0.1rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .navbar-jPd .social-2Dd .instagram-PiP {
+  margin-top: 0.1rem;
+  width: 2.4995rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR {
+  box-sizing: border-box;
+  padding: 6.4rem 8rem 12.8rem 8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV {
+  margin-bottom: 12.8rem;
+  width: 100%;
+  height: 44.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF {
+  margin: 9rem 15.3rem 9rem 0rem;
+  width: 51.1rem;
+  height: calc(100% - 18rem);
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF .featured-3gT {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF .should-i-raise-money-for-my-startup-or-not-MBM {
+  margin-bottom: 1.5rem;
+  max-width: 43.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-fSw {
+  margin-bottom: 3.2rem;
+  max-width: 51.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF .read-more-jxb {
+  margin-right: 40.2rem;
+  width: calc(100% - 40.2rem);
+  display: flex;
+  align-items: center;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF .read-more-jxb .read-now-4jy {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .content-LGF .read-more-jxb .arrow-2-stroke-QYw {
+  width: 2.3rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .blog-hero-qKV .https-wwwpexelscom-photo-photo-of-people-doing-handshakes-3183197--LSb {
+  width: 61.6rem;
+  height: 44.8rem;
+  position: relative;
+  background-size: 111.831% 102.815%;
+  background-position: -0rem -0.6306rem;
+  background-image: url('../assets/https-wwwpexelscom-photo-photo-of-people-doing-handshakes-3183197-.png');
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .all-blogs-kmD {
+  margin-bottom: 4.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 {
+  margin-bottom: 6.4rem;
+  width: 100%;
+  height: 45.2rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-PpB {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-PpB .https-wwwpexelscom-photo-photo-of-people-looking-on-laptop-3182812--LUX {
+  margin-bottom: 3.2rem;
+  width: 41.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-PpB .how-to-build-a-world-class-business-brand-49d {
+  margin-bottom: 1.6rem;
+  max-width: 30.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-PpB .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-ko9 {
+  margin-bottom: 1.6rem;
+  max-width: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-PpB .read-now-GWb {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-R8b {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-R8b .image-yvo {
+  margin-bottom: 3.2rem;
+  width: 41.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-R8b .getting-the-first-100-customers-for-your-business-Wfq {
+  margin-bottom: 1.6rem;
+  max-width: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-R8b .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-2u5 {
+  margin-bottom: 1.6rem;
+  max-width: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-R8b .read-now-9Tu {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-twH {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-twH .https-wwwpexelscom-photo-man-wearing-white-top-in-front-of-woman-wearing-blue-long-sleeved-top-1181715--RRR {
+  margin-bottom: 3.2rem;
+  width: 41.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-twH .should-i-raise-money-for-my-startup-or-not-7JF {
+  margin-bottom: 1.6rem;
+  max-width: 41.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-twH .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-2AK {
+  margin-bottom: 1.6rem;
+  max-width: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .top-row-FT5 .item-twH .read-now-4Mu {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV {
+  width: 100%;
+  height: 45.2rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-vuu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-vuu .https-wwwpexelscom-photo-person-holding-a-camera-3183132--fsV {
+  margin-bottom: 3.2rem;
+  width: 41.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-vuu .how-to-build-a-world-class-business-brand-YwH {
+  margin-bottom: 1.6rem;
+  max-width: 30.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-vuu .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-Ua3 {
+  margin-bottom: 1.6rem;
+  max-width: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-vuu .read-now-NfR {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-XYK {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-XYK .https-wwwpexelscom-photo-busy-ethnic-female-entrepreneur-typing-laptop-while-sitting-on-chair-7578685--H1h {
+  margin-bottom: 3.2rem;
+  width: 41.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-XYK .getting-the-first-100-customers-for-your-business-nDM {
+  margin-bottom: 1.6rem;
+  max-width: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-XYK .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-uYs {
+  margin-bottom: 1.6rem;
+  max-width: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-XYK .read-now-RGK {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-Azb {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-Azb .https-wwwpexelscom-photo-focused-woman-drawing-with-pencil-7148048--7Q3 {
+  margin-bottom: 3.2rem;
+  width: 41.6rem;
+  height: 25.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-Azb .should-i-raise-money-for-my-startup-or-not-bq1 {
+  margin-bottom: 1.6rem;
+  max-width: 41.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-Azb .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-eirmod-tempor-vcP {
+  margin-bottom: 1.6rem;
+  max-width: 41.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-ymg1-VmR .all-blogs-By1 .items-6q5 .bottom-row-oKV .item-Azb .read-now-ck7 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #503ae7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 {
+  width: 144rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 0;
+  top: 21.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH {
+  box-sizing: border-box;
+  padding: 19.2rem 8.027rem 9.6rem 8rem;
+  width: 100%;
+  height: 57.4rem;
+  background-color: #14142b;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo {
+  box-sizing: border-box;
+  padding-right: 24.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .brand-C63 {
+  margin: 0.3rem 23.8rem 0rem 0rem;
+  width: 20rem;
+  height: 4.0506rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 {
+  margin-right: 24.2rem;
+  width: 7rem;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 .pages-tUf {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 .links-c9m {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 .links-c9m .home-Ah5 {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 .links-c9m .podcast-uuZ {
+  margin-bottom: 1.5948rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 .links-c9m .host-TAP {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .pages-Xe7 .links-c9m .blog-oV9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .reach-us-k9V {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .reach-us-k9V .reach-us-5Sf {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .reach-us-k9V .links-zpX {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .reach-us-k9V .links-zpX .contact-maP {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .auto-group-c5au-FAo .reach-us-k9V .links-zpX .about-7eF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 {
+  width: 19.5728rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .subscribe-Prf {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo {
+  margin: 0rem 1.353rem 3.2rem 0rem;
+  width: calc(100% - 1.3528rem);
+  height: 3.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .icon-oQb {
+  margin-right: 1.0255rem;
+  width: 3.2346rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 {
+  margin: 0.736rem 0rem 0.676rem 0rem;
+  height: calc(100% - 1.4127rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-sQT {
+  margin: 0rem 0.133rem 0.348rem 0rem;
+  width: 1.3013rem;
+  height: 1.4385rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-QfH {
+  margin: 0.38rem 0.169rem 0rem 0rem;
+  width: 1.0007rem;
+  height: 1.4077rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-WTR {
+  margin: 0.38rem 0.176rem 0rem 0rem;
+  width: 1.0022rem;
+  height: 1.4077rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-epX {
+  margin: 0rem 0.178rem 0.348rem 0rem;
+  width: 0.2184rem;
+  height: 1.4385rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-y67 {
+  margin: 0.044rem 0.613rem 0rem 0rem;
+  width: 0.9722rem;
+  height: 1.0777rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-ukT {
+  margin: 0rem 0.079rem 0.348rem 0rem;
+  width: 1.0295rem;
+  height: 1.4391rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-dgT {
+  margin: 0.042rem 0.154rem 0rem 0rem;
+  width: 1.0097rem;
+  height: 1.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-aLo {
+  margin: 0rem 0.178rem 0.336rem 0rem;
+  width: 1.0007rem;
+  height: 1.4507rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-KZH {
+  margin: 0.042rem 0.135rem 0rem 0rem;
+  width: 0.9617rem;
+  height: 1.0788rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-fNF {
+  margin: 0.042rem 0.163rem 0rem 0rem;
+  width: 0.9034rem;
+  height: 1.0873rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-b11 {
+  margin: 0.045rem 0.102rem 0rem 0rem;
+  width: 0.884rem;
+  height: 1.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-XvF {
+  margin: 0rem 0.144rem 0.199rem 0rem;
+  width: 0.5714rem;
+  height: 1.3074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .apple-podcast-Veo .text-MS7 .vector-FrF {
+  margin-top: 0.0446rem;
+  width: 0.8809rem;
+  height: 1.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .google-podcast-k2K {
+  margin: 0rem 0.067rem 3.2rem 0.037rem;
+  width: calc(100% - 0.1033rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .google-podcast-k2K .lines-4oh {
+  margin-right: 1.0512rem;
+  width: 3.2587rem;
+  height: 3.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .google-podcast-k2K .vector-QsZ {
+  margin: 0.237rem 0.536rem 0rem 0rem;
+  width: 6.7504rem;
+  height: 2.16rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .google-podcast-k2K .vector-MgK {
+  margin-bottom: 0.0611rem;
+  width: 7.873rem;
+  height: 1.4991rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .soundcloud-5sD {
+  margin: 0rem 2.178rem 3.2rem 0.035rem;
+  width: calc(100% - 2.2128rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .soundcloud-5sD .cloud-BvF {
+  margin-right: 0.7876rem;
+  width: 3.2954rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .soundcloud-5sD .text-jgs {
+  margin-top: 0.1821rem;
+  width: 13.277rem;
+  height: 1.4045rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 .vector-S5V {
+  margin-right: 0.966rem;
+  width: 3.2266rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 .vector-m7m {
+  margin: 0rem 0.111rem 0.021rem 0rem;
+  width: 1.4045rem;
+  height: 1.8367rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 .vector-hn7 {
+  margin: 0.783rem 0.126rem 0rem 0rem;
+  width: 1.4125rem;
+  height: 1.7804rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 .vector-FHq {
+  margin: 0.42rem 0.021rem 0rem 0rem;
+  width: 1.4294rem;
+  height: 1.4176rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 .vector-xCF {
+  margin-top: 0.0771rem;
+  width: 0.8659rem;
+  height: 1.7414rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .top-content-yDH .footer-columns-t5M .subscribe-eu5 .links-Xhy .spotify-gc7 .auto-group-6eqm-udH {
+  width: 3.202rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .footer-4c7 .bottom-copyright-3Dh {
+  width: 100%;
+  height: 6.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #503ae7;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT {
+  box-sizing: border-box;
+  padding: 7.1rem 9.799rem 6.571rem 8.9rem;
+  width: 128rem;
+  height: 31rem;
+  position: absolute;
+  left: 8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #503ae7;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/wave-Tmh.png');
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .icon-2rK {
+  margin: 0rem 15.4rem 5.423rem 0rem;
+  width: 11.4rem;
+  height: 11.9053rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .auto-group-twnm-TAw {
+  margin: 2.5rem 20.088rem 3.029rem 0rem;
+  width: 56.6rem;
+  height: calc(100% - 5.5286rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .auto-group-twnm-TAw .heading-B6w {
+  margin-bottom: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2000000477;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .auto-group-twnm-TAw .subscribe-6Uo {
+  margin: 0rem 2.7rem 0rem 2.8rem;
+  width: calc(100% - 5.5rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .auto-group-twnm-TAw .subscribe-6Uo .input-QVV {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem;
+  width: 36.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #aeafb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .auto-group-twnm-TAw .subscribe-6Uo .button-7eo {
+  width: 14.4rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #14142b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #1ad993;
+  flex-shrink: 0;
+}
+.blog-raj .auto-group-sdev-jJw .subscribe-YAT .icon-Cw9 {
+  margin-top: 11.5157rem;
+  width: 5.8129rem;
+  height: 5.8129rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
